@@ -2,9 +2,7 @@ Con este script de python y utilizando Selenium con Firefox podrás descargar im
 
 ![](https://github.com/davidruizduarte/SeleniumResizerFirefox/blob/main/resizer%20512x512.jpg) 
 
-![](https://github.com/davidruizduarte/SeleniumResizerFirefox/blob/main/selenium%20resizer%20512x512%20dogs%20.png
-
-) 
+![](https://github.com/davidruizduarte/SeleniumResizerFirefox/blob/main/selenium%20resizer%20512x512%20dogs%20.png) 
 
 
 
